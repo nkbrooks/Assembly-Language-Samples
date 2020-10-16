@@ -58,7 +58,7 @@ main_end:
    lw   $fp, -4($sp)       # restore saved $fp
    j    $ra                # return to kernel
 # end main #################################################
-# isqrt - Project 5 - by Natalie Brooks, nkbrooks, 116009829
+# isqrt - 
 
 #calling the function
 #$a0 is parameter
