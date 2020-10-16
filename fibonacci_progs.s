@@ -73,7 +73,7 @@ main_end:
    lw   $fp, -4($sp)       # restore saved $fp
    j    $ra                # return to kernel
 ## end main #################################################
-# FIBONACCI -Project 5-  by Natalie Brooks, nkbrooks, 116009829
+# FIBONACCI
 	
 
 fibonacci:
