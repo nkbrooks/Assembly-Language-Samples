@@ -1,4 +1,4 @@
-# FIBONACCI - Project 5 - by Natalie Brooks, nkbrooks, 116009829
+# FIBONACCI 
 	
 #calling the function
 #$a0 is parameter
